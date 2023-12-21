@@ -13,7 +13,7 @@ const About = () => {
           </p>
           <h2 className="py-4">Who I Am</h2>
           <p className="py-2 text-gray-600">
-            I specialize in building mobile responsive front-end UI applications
+            I specialize in building front-end applications
             that connect with API’s and other backend technologies. I’m
             passionate about learning new technologies and understand there is
             more than one way to accomplish a task. Though I am most proficient
@@ -25,7 +25,7 @@ const About = () => {
           <p className="py-2 text-gray-600">
             My technical expertise is complemented by my proficiency in
             efficiently solving intricate problems through a blend of creative
-            and analytical thinking. Additionally, I have earned certifications as an
+            and analytical thinking. Furthermore, I have earned certifications as an
             AWS Certified Solutions Architect Associate and an AWS Certified Cloud
             Practitioner, underlining my commitment to continuous learning and
             staying updated with the latest industry standards.
