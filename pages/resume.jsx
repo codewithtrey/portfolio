@@ -52,15 +52,16 @@ const resume = () => {
         <p>
           Exhibiting technical proficiency in a diverse set of programming
           languages, system design concepts, and AWS services, I am a software
-          engineer with a knack for problem-solving. Through projects like
-          'Prestige Palate' and 'AutoEase', I have honed my ability to tackle
-          complex challenges with innovative solutions. Moreover, my tenure at
-          Amazon Web Services has showcased my troubleshooting expertise. Beyond
-          technical skills, I bring a leadership and collaboration mindset to
-          the table, as seen in my roles as a Full-Stack Engineer and my
-          internship experience. Whether it's developing streamlined web
-          applications or exceeding SLA timeframes, I am driven to optimize
-          efficiency, foster cohesive teams, and solve intricate problems.
+          engineer with a passion for crafting robust and scalable solutions
+          that drive business success and elevate user experiences. Continuously
+          refining my skills and embracing new challenges, I thrive in
+          collaborative environments where innovation is valued. My ability to
+          communicate complex technical concepts to both technical and
+          non-technical stakeholders allows me to bridge the gap between
+          development and business objectives effectively. I am dedicated to
+          delivering high-quality software products that not only meet but
+          exceed expectations, and I am always eager to contribute to projects
+          that push the boundaries of what technology can achieve.
         </p>
 
         {/* Skills */}
