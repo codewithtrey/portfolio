@@ -38,26 +38,29 @@ const resume = () => {
         <div className="text-center py-4 text-xl font-bold uppercase tracking-wider">
           <div className="hidden sm:block">
             <p>
-              Proven Leadership <span className="px-1">|</span> Web Development{" "}
-              <span className="px-1">|</span> Complex Problem Solving
+              Technical Proficiency <span className="px-1">|</span> Problem
+              Solving <span className="px-1">|</span> Leadership and
+              Collaboration
             </p>
           </div>
           <div className="block sm:hidden">
-            <p>Proven Leadership</p>
-            <p className="py-2">Web Development</p>
-            <p>Complex Problem Solving</p>
+            <p>Technical Proficiency</p>
+            <p className="py-2">Problem Solving</p>
+            <p>Leadership and Collaboration</p>
           </div>
         </div>
         <p>
-          Analytical, innovative, and motivated web development professional
-          with experience in customer service, team leadership, and
-          organizational effectiveness in fast-paced and challenging
-          environments. Adept at developing strategies and driving streamlined
-          operations. Diverse analytical skills, team collaboration, and
-          relationship building. Consummate professional, and motivated leader,
-          with solid interpersonal abilities and complex problem-solving skills.
-          Effective and proven track record of critical thinking, idea
-          generation, and optimizing efficiencies.
+          Exhibiting technical proficiency in a diverse set of programming
+          languages, system design concepts, and AWS services, I am a software
+          engineer with a knack for problem-solving. Through projects like
+          'Prestige Palate' and 'AutoEase', I have honed my ability to tackle
+          complex challenges with innovative solutions. Moreover, my tenure at
+          Amazon Web Services has showcased my troubleshooting expertise. Beyond
+          technical skills, I bring a leadership and collaboration mindset to
+          the table, as seen in my roles as a Full-Stack Engineer and my
+          internship experience. Whether it's developing streamlined web
+          applications or exceeding SLA timeframes, I am driven to optimize
+          efficiency, foster cohesive teams, and solve intricate problems.
         </p>
 
         {/* Skills */}
@@ -91,56 +94,61 @@ const resume = () => {
           Professional Experience
         </h5>
         {/* Experience */}
-        <div className="py-6">
+        <div className="py-4">
           <p className="italic">
             <span className="font-bold italic">Amazon Web Services (AWS)</span>
             <span className="px-2">|</span>Cloud Support Associate (2022 - 2023)
           </p>
           <ul className="list-disc list-outside px-7 py-1 leading-relaxed">
             <li>
-            Handled critical and highly complex customer issues related to various Amazon Web Services
+              Handled critical and highly complex customer issues related to
+              various Amazon Web Services
             </li>
             <li>
-            Demonstrated exceptional efficiency by consistently exceeding SLA timeframes and resolving issues promptly
+              Demonstrated exceptional efficiency by consistently exceeding SLA
+              timeframes and resolving issues promptly
             </li>
             <li>
-            Employed advanced troubleshooting techniques to deliver tailored solutions, resulting in a significant boost in customer satisfaction and positive feedback from customer surveys
+              Employed advanced troubleshooting techniques to deliver tailored
+              solutions, resulting in a significant boost in customer
+              satisfaction and positive feedback from customer surveys
             </li>
           </ul>
         </div>
 
         {/* Experience */}
-        <div className="py-6">
+        <div className="py-4">
           <p className="italic">
-            <span className="font-bold italic">
-              Wolters Kluwer
-            </span>
+            <span className="font-bold italic">Wolters Kluwer</span>
             <span className="px-2">|</span>IT Support Specialist (2021 - 2022)
           </p>
           <ul className="list-disc list-outside px-7 py-1 leading-relaxed">
             <li>
-            Provided technical support to Tax and IT professionals for installation and troubleshooting of industry-leading software solutions
+              Provided technical support to Tax and IT professionals for
+              installation and troubleshooting of industry-leading software
+              solutions
             </li>
             <li>
-            Managed phone, email, and chat support for product and content-related issues
+              Managed phone, email, and chat support for product and
+              content-related issues
             </li>
           </ul>
         </div>
 
         {/* Experience */}
-        <div className="py-6">
+        <div className="py-4">
           <p className="italic">
-            <span className="font-bold italic">
-            Amazon Web Services (AWS)
-            </span>
+            <span className="font-bold italic">Amazon Web Services (AWS)</span>
             <span className="px-2">|</span>Cloud Support Associate Intern (2021)
           </p>
           <ul className="list-disc list-outside px-7 py-1 leading-relaxed">
             <li>
-            Collaborated with AWS engineers and interns in a virtual classroom to acquire in-depth knowledge about troubleshooting methodologies
+              Collaborated with AWS engineers and interns in a virtual classroom
+              to acquire in-depth knowledge about troubleshooting methodologies
             </li>
             <li>
-            Acquired extensive knowledge about various components and services offered by Amazon Web Services
+              Acquired extensive knowledge about various components and services
+              offered by Amazon Web Services
             </li>
           </ul>
         </div>

@@ -2,10 +2,9 @@ import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
 import eventImg from '../public/assets/projects/eventpro2.png';
-import netflixImg from '../public/assets/projects/netflix.jpg'
-import twitchImg from '../public/assets/projects/twitch.jpg'
 import ProjectItem from './ProjectItem';
 import prestigepalateImg from '../public/assets/projects/prestigepalate.png';
+import autoImg from '../public/assets/projects/autoease.png';
 
 const Projects = () => {
   return (
@@ -30,17 +29,10 @@ const Projects = () => {
 
           />
           <ProjectItem
-            title='Netflix App'
-            backgroundImg={netflixImg}
-            projectUrl='/netflix'
-            tech='React JS'
-
-          />
-          <ProjectItem
-            title='Twitch UI'
-            backgroundImg={twitchImg}
-            projectUrl='/twitch'
-            tech='Next JS'
+            title='AutoEase'
+            backgroundImg={autoImg}
+            projectUrl='/autoEase'
+            tech='React'
 
           />
         </div>
