@@ -10,7 +10,7 @@ import FastAPI from '../public/assets/skills/fastapi.png';
 import Mongo from '../public/assets/skills/mongo.png'
 import AWS from '../public/assets/skills/aws.png';
 import Python from '..//public/assets/skills/python.png';
-import PostgreSQL from '..//public/assets/skills/postgresql.png';
+import PostgreSQL from '..//public/assets/skills/Postgresql.png';
 import SQL from '..//public/assets/skills/SQL.png';
 import Django from '..//public/assets/skills/django.png';
 import GitLab from '..//public/assets/skills/gitlab.png';

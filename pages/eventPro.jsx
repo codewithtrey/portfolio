@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import eventImg from "../public/assets/projects/eventpro.png";
+import eventImg from "../public/assets/projects/EventPro.png";
 import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";
 

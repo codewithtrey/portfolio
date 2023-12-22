@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import auto2Img from "../public/assets/projects/autoease3.png";
+import auto2Img from "../public/assets/projects/AutoEase3.png";
 import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";
 

@@ -1,10 +1,10 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-import eventImg from '../public/assets/projects/eventpro2.png';
+import eventImg from '../public/assets/projects/EventPro2.png';
 import ProjectItem from './ProjectItem';
 import prestigepalateImg from '../public/assets/projects/prestigepalate.png';
-import autoImg from '../public/assets/projects/autoease.png';
+import autoImg from '../public/assets/projects/AutoEase.png';
 
 const Projects = () => {
   return (
