@@ -26,7 +26,7 @@ const prestigepalate = () => {
         <div className="col-span-4">
           <p>Project</p>
           <h2>Overview</h2>
-          <p>
+          <p className="py-2 text-gray-600">
             Prestige Palate caters to discerning food enthusiasts who are eager
             to embark on their next global culinary journey. This application allows you
             to discover and keep tabs on the trendiest dining establishments
@@ -39,7 +39,7 @@ const prestigepalate = () => {
             Palate's exclusive referral program, you can trust that you're
             receiving authentic recommendations from genuine individuals.
           </p>
-          <p>
+          <p className="py-2 text-gray-600">
             This Single Page Application harnesses the power of React and is
             hosted on GitLab Pages. It empowers users to explore restaurants
             globally by conducting searches based on City, State, and Country
