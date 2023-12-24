@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import auto2Img from "../public/assets/projects/AutoEase3.png";
+import auto2Img from "../public/assets/projects/AutoEase.png";
 import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";
 
@@ -17,8 +17,8 @@ const netflix = () => {
           alt="/"
         />
         <div className="absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2">
-          <h2 className="py-2">Auto Ease</h2>
-          <h3>React / JavaScript / Django</h3>
+          <h2 className="py-2">AutoEase</h2>
+          <h3>React / Django / PostgreSQL</h3>
         </div>
       </div>
 
@@ -26,22 +26,34 @@ const netflix = () => {
         <div className="col-span-4">
           <p>Project</p>
           <h2>Overview</h2>
-          <p>
-            AutoEase is a streamlined car dealership management system. Users
-            can create sales, service, and inventory records. The application
-            also allows users to create and manage customer records, including
-            contact information, vehicle information, and service history.
-            Additionally, the application provides a convenient way to manage
-            employee records, including contact information, job title, and
-            department. With all these features, AutoEase provides an efficient
-            solution for managing all aspects of a car dealership.
+          <p className="py-2 text-gray-600">
+            AutoEase is a Single Page Application with a specific focus on
+            creating a streamlined car dealership management system. The
+            application offers sales and service capabilities to cater to
+            customer needs. Dealers can meticulously describe, display photos
+            of, and provide detailed specifications for each vehicle they have
+            in stock, thus facilitating customers in their search and comparison
+            of these exceptional automobiles.
+          </p>
+          <p className="py-2 text-gray-600">
+            AutoEase empowers dealerships by enabling them to efficiently handle
+            both sales and servicing aspects. It includes features for listing
+            cars, generating service appointments, and maintaining a
+            comprehensive record of past sales and services. This streamlining
+            of operations not only enhances the customer experience but also
+            boosts the overall efficiency and profitability of the dealership
+            business. Dealers can take advantage of features like lead
+            generation, appointment scheduling, and service history tracking.
+            With AutoEase, dealers have the convenience of managing their
+            inventory, sales, and service procedures all within a unified
+            platform, simplifying the management of their automotive business.
           </p>
           <a
             href="https://github.com/codewithtrey/AutoEase"
             target="_blank"
             rel="noreferrer"
           >
-            <button className="px-8 py-2 mt-4">Demo</button>
+            <button className="px-8 py-2 mt-4">Code</button>
           </a>
         </div>
         <div className="col-span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl py-4">

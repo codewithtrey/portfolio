@@ -18,7 +18,7 @@ const eventPro = () => {
         />
         <div className="absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2">
           <h2 className="py-2">EventPro</h2>
-          <h3>React / Python / Django</h3>
+          <h3>React / Django / RabbitMQ</h3>
         </div>
       </div>
 
@@ -27,7 +27,7 @@ const eventPro = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p className="py-2 text-gray-600">
-            EventPro is an application that allows users to manage all aspects
+            EventPro is a Single Page Application that allows users to manage all aspects
             of a conference in one place. Users can list and attend conferences,
             create new conferences, sign up for events, and submit their
             presentations for approval. Additionally, users can create
