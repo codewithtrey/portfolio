@@ -71,6 +71,7 @@ const resume = () => {
             <span className="font-bold">Technical Skills</span>
             <span className="px-2">|</span>JavaScript
             <span className="px-2">|</span> Python
+            <span className="px-2">|</span> C#
             <span className="px-2">|</span>HTML
             <span className="px-2">|</span>CSS
             <span className="px-2">|</span>React
@@ -97,8 +98,30 @@ const resume = () => {
         {/* Experience */}
         <div className="py-4">
           <p className="italic">
+            <span className="font-bold italic">Conductor Systems Inc.</span>
+            <span className="px-2">|</span>Software Engineer (February 2023 - Present)
+          </p>
+          <ul className="list-disc list-outside px-7 py-1 leading-relaxed">
+            <li>
+              Enhanced frontend architecture by refactoring class components
+              with React Hooks, leading to a significant increase in component
+              reusability
+            </li>
+            <li>
+              Streamlined API calls with SQL queries to minimize backend
+              disruption while allowing for enhanced data fetching
+            </li>
+            <li>
+              Integrated Amazon S3 for optimized data management and efficient
+              data storage
+            </li>
+          </ul>
+        </div>
+        {/* Experience */}
+        <div className="py-4">
+          <p className="italic">
             <span className="font-bold italic">Amazon Web Services (AWS)</span>
-            <span className="px-2">|</span>Cloud Support Associate (2022 - 2023)
+            <span className="px-2">|</span>Cloud Support Associate (April 2022 - February 2023)
           </p>
           <ul className="list-disc list-outside px-7 py-1 leading-relaxed">
             <li>
@@ -121,7 +144,7 @@ const resume = () => {
         <div className="py-4">
           <p className="italic">
             <span className="font-bold italic">Wolters Kluwer</span>
-            <span className="px-2">|</span>IT Support Specialist (2021 - 2022)
+            <span className="px-2">|</span>IT Support Specialist (August 2021 - April 2022)
           </p>
           <ul className="list-disc list-outside px-7 py-1 leading-relaxed">
             <li>
@@ -140,7 +163,7 @@ const resume = () => {
         <div className="py-4">
           <p className="italic">
             <span className="font-bold italic">Amazon Web Services (AWS)</span>
-            <span className="px-2">|</span>Cloud Support Associate Intern (2021)
+            <span className="px-2">|</span>Cloud Support Associate Intern (May 2021 - August 2021)
           </p>
           <ul className="list-disc list-outside px-7 py-1 leading-relaxed">
             <li>

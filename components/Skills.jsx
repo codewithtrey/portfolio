@@ -16,6 +16,8 @@ import Django from '..//public/assets/skills/django.png';
 import GitLab from '..//public/assets/skills/gitlab.png';
 import Bootstrap from '..//public/assets/skills/bootstrap.png';
 import S3 from '..//public/assets/skills/s3.png';
+import Csharp from '..//public/assets/skills/C.png';
+
 
 const Skills = () => {
   return (
@@ -43,6 +45,16 @@ const Skills = () => {
               </div>
               <div className='flex flex-col items-center justify-center'>
                 <h3>React</h3>
+              </div>
+            </div>
+          </div>
+          <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
+            <div className='grid grid-cols-2 gap-4 justify-center items-center'>
+              <div className='m-auto'>
+                <Image src={Csharp} width='64px' height='64px' alt='/' />
+              </div>
+              <div className='flex flex-col items-center justify-center'>
+                <h3>C#</h3>
               </div>
             </div>
           </div>
