@@ -24,20 +24,20 @@ const prestigepalate = () => {
 
       <div className="max-w-[1240px] mx-auto p-2 grid md:grid-cols-5 gap-8 py-8">
         <div className="col-span-4">
-          <p>Project</p>
-          <h2>Overview</h2>
+          <h2>Project Overview</h2>
           <p className="py-2 text-gray-600">
             Prestige Palate caters to discerning food enthusiasts who are eager
-            to embark on their next global culinary journey. This application allows you
-            to discover and keep tabs on the trendiest dining establishments
-            worldwide, connect with like-minded foodies, and broaden your
-            culinary horizons. Relive cherished moments by perusing your photos
-            and reviews, or offer valuable insights to friends regarding dining
-            experiences that may have fallen short of expectations. Prestige
-            Palate stands as the premier choice for food aficionados seeking an
-            alternative to paid reviews and biased ratings. Thanks to Prestige
-            Palate's exclusive referral program, you can trust that you're
-            receiving authentic recommendations from genuine individuals.
+            to embark on their next global culinary journey. This application
+            allows you to discover and keep tabs on the trendiest dining
+            establishments worldwide, connect with like-minded foodies, and
+            broaden your culinary horizons. Relive cherished moments by perusing
+            your photos and reviews, or offer valuable insights to friends
+            regarding dining experiences that may have fallen short of
+            expectations. Prestige Palate stands as the premier choice for food
+            aficionados seeking an alternative to paid reviews and biased
+            ratings. Thanks to Prestige Palate's exclusive referral program, you
+            can trust that you're receiving authentic recommendations from
+            genuine individuals.
           </p>
           <p className="py-2 text-gray-600">
             This Single Page Application harnesses the power of React and is

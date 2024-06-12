@@ -24,8 +24,7 @@ const eventPro = () => {
 
       <div className="max-w-[1240px] mx-auto p-2 grid md:grid-cols-5 gap-8 py-8">
         <div className="col-span-4">
-          <p>Project</p>
-          <h2>Overview</h2>
+          <h2>Project Overview</h2>
           <p className="py-2 text-gray-600">
             EventPro is a Single Page Application that allows users to manage all aspects
             of a conference in one place. Users can list and attend conferences,

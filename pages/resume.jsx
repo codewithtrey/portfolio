@@ -98,31 +98,6 @@ const resume = () => {
         {/* Experience */}
         <div className="py-4">
           <p className="italic">
-            <span className="font-bold italic">Conductor Systems Inc.</span>
-            <span className="px-2">|</span>Software Engineer (February 2023 -
-            Present)
-          </p>
-          <ul className="list-disc list-outside px-7 py-1 leading-relaxed">
-            <li>
-              Revitalize frontend architecture by refactoring class components
-              with React Hooks, leading to a significant increase in component
-              reusability, resulting in a smoother user experience and
-              facilitating faster feature development
-            </li>
-            <li>
-              Optimize API performance by streamlining SQL queries, reducing
-              backend disruptions, and improving data retrieval efficiency
-            </li>
-            <li>
-              Lead and actively participate in the complete software development
-              lifecycle, including requirements gathering, design, coding,
-              testing, and deployment
-            </li>
-          </ul>
-        </div>
-        {/* Experience */}
-        <div className="py-4">
-          <p className="italic">
             <span className="font-bold italic">Amazon Web Services (AWS)</span>
             <span className="px-2">|</span>Cloud Support Associate (April 2022 -
             February 2023)

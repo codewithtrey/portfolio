@@ -24,8 +24,7 @@ const netflix = () => {
 
       <div className="max-w-[1240px] mx-auto p-2 grid md:grid-cols-5 gap-8 py-8">
         <div className="col-span-4">
-          <p>Project</p>
-          <h2>Overview</h2>
+          <h2>Project Overview</h2>
           <p className="py-2 text-gray-600">
             AutoEase is a Single Page Application with a specific focus on
             creating a streamlined car dealership management system. The
